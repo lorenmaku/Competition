@@ -1,0 +1,28 @@
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.tab {
+  overflow: hidden;
+  border: 1px solid rgb(102,0,102);
+  Background-color: rgb(102,0,102);
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.5s;
+}
+
+.tab button:hover {
+  background-color: rgb(116,116,116)
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
